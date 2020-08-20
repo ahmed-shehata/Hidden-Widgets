@@ -4,6 +4,7 @@ If you are encountering a bug, please create an issue on this repository.
 
 ## Installation
 If you can, you should sideload the IPA provided in the releases section in this repository.  
+  
 If that doesn't work, you will have to install the app from Xcode. You will need Xcode 12 (currently in beta). Follow the instructions given below to install the app using source.
 1. Clone this repository.
 2. Open the `.xcodeproj` file from the cloned repository.
